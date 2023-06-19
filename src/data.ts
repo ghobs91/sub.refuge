@@ -4,6 +4,7 @@ import { useMemo } from "react";
 
 export const SERVICE_COLORS: Record<string, (theme: MantineTheme) => string> = {
   lemmy: ({ colors, colorScheme }) => (colorScheme === "dark" ? colors.gray[7] : colors.gray[2]),
+  agora: () => "#7239dd",
   discord: () => "#7289DA",
   matrix: () => "black",
   kbin: () => "#D57AD4",

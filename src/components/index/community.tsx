@@ -15,6 +15,7 @@ type CommunityProps = {
 const SERVICE_ICONS: Record<string, string> = {
   discord: "/images/discord.svg",
   lemmy: "/images/lemmy.svg",
+  agora: "/images/agora.png",
   kbin: "/images/kbin.svg",
   misc: "/images/web.svg",
   matrix: "/images/matrix.png",

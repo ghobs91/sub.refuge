@@ -11,7 +11,8 @@
       "name": "r/pcgaming",
       "links": [
         { "service": "discord", "url": "https://discord.gg/4bxJgkY", "official": true },
-        { "service": "kbin", "url": "https://kbin.social/m/PCGaming" }
+        { "service": "kbin", "url": "https://kbin.social/m/PCGaming" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/PCGaming" }
       ]
     },
     {
@@ -46,7 +47,10 @@
     },
     {
       "name": "r/FoodPorn",
-      "links": [{ "service": "lemmy", "url": "https://lemmy.world/c/foodporn" }]
+      "links": [
+        { "service": "lemmy", "url": "https://lemmy.world/c/foodporn" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/foodporn" }
+      ]
     },
     {
       "name": "r/AnarchyChess",
@@ -54,7 +58,10 @@
     },
     {
       "name": "r/photography",
-      "links": [{ "service": "kbin", "url": "https://kbin.social/m/photography" }]
+      "links": [
+        { "service": "kbin", "url": "https://kbin.social/m/photography" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/photography" }
+      ]
     },
     {
       "name": "r/SquaredCircle",
@@ -62,7 +69,10 @@
     },
     {
       "name": "r/history",
-      "links": [{ "service": "discord", "url": "https://discord.gg/7XkFuez", "official": true }]
+      "links": [
+        { "service": "discord", "url": "https://discord.gg/7XkFuez", "official": true },
+        { "service": "agora", "url": "https://agorasocial.app/topic/history" }
+      ]
     },
     {
       "name": "r/3Dprinting",
@@ -82,7 +92,8 @@
     {
       "name": "r/Architecture",
       "links": [
-        { "service": "discord", "url": "https://discord.com/invite/tMFaTvk", "official": true }
+        { "service": "discord", "url": "https://discord.com/invite/tMFaTvk", "official": true },
+        { "service": "agora", "url": "https://agorasocial.app/topic/architecture" }
       ]
     },
     {
@@ -127,7 +138,8 @@
     {
       "name": "r/iPhone",
       "links": [
-        { "service": "discord", "url": "https://discord.com/invite/r5McVVhqqs", "official": true }
+        { "service": "discord", "url": "https://discord.com/invite/r5McVVhqqs", "official": true },
+        { "service": "agora", "url": "https://agorasocial.app/topic/iphone" }
       ]
     },
     {
@@ -170,14 +182,16 @@
       "name": "r/android",
       "links": [
         { "service": "lemmy", "url": "https://lemmy.world/c/android" },
-        { "service": "kbin", "url": "https://kbin.social/m/android" }
+        { "service": "kbin", "url": "https://kbin.social/m/android" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/android" }
       ]
     },
     {
       "name": "r/apple",
       "links": [
         { "service": "lemmy", "url": "https://lemmy.ml/c/apple" },
-        { "service": "kbin", "url": "https://kbin.social/m/apple" }
+        { "service": "kbin", "url": "https://kbin.social/m/apple" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/apple" }
       ]
     },
     {
@@ -195,14 +209,16 @@
           "url": "https://matrix.to/#/#reddit-firefox:mozilla.org",
           "official": true
         },
-        { "service": "lemmy", "url": "https://lemmy.world/c/firefox@lemmy.ml" }
+        { "service": "lemmy", "url": "https://lemmy.world/c/firefox@lemmy.ml" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/firefox" }
       ]
     },
     {
       "name": "r/gaming",
       "links": [
         { "service": "lemmy", "url": "https://beehaw.org/c/gaming" },
-        { "service": "kbin", "url": "https://kbin.social/m/gaming" }
+        { "service": "kbin", "url": "https://kbin.social/m/gaming" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/gaming" }
       ]
     },
     {
@@ -210,7 +226,8 @@
       "links": [
         { "service": "lemmy", "url": "https://sopuli.xyz/c/linux" },
         { "service": "lemmy", "url": "https://lemmy.ml/c/linux" },
-        { "service": "kbin", "url": "https://kbin.social/m/linux" }
+        { "service": "kbin", "url": "https://kbin.social/m/linux" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/linux" }
       ]
     },
     { "name": "r/memes", "links": [{ "service": "lemmy", "url": "https://lemmy.ml/c/memes" }] },
@@ -218,19 +235,24 @@
       "name": "r/music",
       "links": [
         { "service": "lemmy", "url": "https://beehaw.org/c/music" },
-        { "service": "kbin", "url": "https://kbin.social/m/music" }
+        { "service": "kbin", "url": "https://kbin.social/m/music" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/music" }
       ]
     },
     {
       "name": "r/news",
       "links": [
         { "service": "lemmy", "url": "https://beehaw.org/c/news" },
-        { "service": "kbin", "url": "https://kbin.social/m/news" }
+        { "service": "kbin", "url": "https://kbin.social/m/news" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/news" }
       ]
     },
     {
       "name": "r/piracy",
-      "links": [{ "service": "lemmy", "url": "https://lemmy.dbzer0.com/c/piracy" }]
+      "links": [
+        { "service": "lemmy", "url": "https://lemmy.dbzer0.com/c/piracy" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/piracy" }
+      ]
     },
     {
       "name": "r/politics",
@@ -243,14 +265,16 @@
       "name": "r/privacy",
       "links": [
         { "service": "lemmy", "url": "https://lemmy.ml/c/privacy" },
-        { "service": "kbin", "url": "https://kbin.social/m/privacy" }
+        { "service": "kbin", "url": "https://kbin.social/m/privacy" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/privacy" }
       ]
     },
     {
       "name": "r/programming",
       "links": [
         { "service": "lemmy", "url": "https://beehaw.org/c/programming" },
-        { "service": "kbin", "url": "https://kbin.social/m/programming" }
+        { "service": "kbin", "url": "https://kbin.social/m/programming" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/programming" }
       ]
     },
     {
@@ -274,14 +298,16 @@
       "links": [
         { "service": "lemmy", "url": "https://lemmy.ml/c/technology" },
         { "service": "lemmy", "url": "https://lemmy.world/c/technology" },
-        { "service": "kbin", "url": "https://kbin.social/m/technology" }
+        { "service": "kbin", "url": "https://kbin.social/m/technology" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/technology" }
       ]
     },
     {
       "name": "r/worldnews",
       "links": [
         { "service": "lemmy", "url": "https://lemmy.ml/c/worldnews" },
-        { "service": "kbin", "url": "https://kbin.social/m/worldnews" }
+        { "service": "kbin", "url": "https://kbin.social/m/worldnews" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/worldnews" }
       ]
     },
     {
@@ -308,7 +334,10 @@
     },
     {
       "name": "r/nba",
-      "links": [{ "service": "misc", "url": "https://twitter.com/NBA_Reddit", "official": true }]
+      "links": [
+        { "service": "misc", "url": "https://twitter.com/NBA_Reddit", "official": true },
+        { "service": "agora", "url": "https://agorasocial.app/topic/nba" }
+      ]
     },
     {
       "name": "r/fuckcars",
@@ -445,9 +474,17 @@
     { "name": "r/tech", "links": [{ "service": "kbin", "url": "https://kbin.social/m/tech" }] },
     {
       "name": "r/science",
-      "links": [{ "service": "kbin", "url": "https://kbin.social/m/science" }]
+      "links": [
+        { "service": "kbin", "url": "https://kbin.social/m/science" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/science" }
+    ]
     },
-    { "name": "r/space", "links": [{ "service": "kbin", "url": "https://kbin.social/m/space" }] },
+    { "name": "r/space", 
+      "links": [
+        { "service": "kbin", "url": "https://kbin.social/m/space" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/space" }
+      ] 
+    },
     {
       "name": "r/austion",
       "links": [{ "service": "lemmy", "url": "https://lemmy.world/c/austin" }]
@@ -472,7 +509,10 @@
     },
     {
       "name": "r/opensource",
-      "links": [{ "service": "kbin", "url": "https://kbin.social/m/opensource" }]
+      "links": [
+        { "service": "kbin", "url": "https://kbin.social/m/opensource" },
+        { "service": "agora", "url": "https://agorasocial.app/topic/opensource" }
+      ]
     },
     {
       "name": "r/blender",
@@ -877,7 +917,8 @@
           "url": "https://discord.gg/newyorkcity",
           "official": true,
           "added_ts": 1687119835162
-        }
+        },
+        { "service": "agora", "url": "https://agorasocial.app/topic/nyc" }
       ]
     },
     {
